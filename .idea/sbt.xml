@@ -2,5 +2,7 @@
 <project version="4">
   <component name="ScalaSbtSettings">
     <option name="customVMPath" />
+    <option name="maximumHeapSize" value="4096" />
+    <option name="vmParameters" value="-Xmx8192m" />
   </component>
 </project>
